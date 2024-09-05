@@ -1,8 +1,8 @@
 torch
 torchvision
 pytorch_lightning
-omegaconf==2.0.6
+omegaconf
 einops
 fsspec
-wandb==0.12.21
-transformers==4.23.1
+wandb
+transformers
