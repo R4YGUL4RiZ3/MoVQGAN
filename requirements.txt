@@ -1,6 +1,6 @@
 torch
 torchvision
-pytorch_lightning==1.5.10
+pytorch_lightning
 omegaconf==2.0.6
 einops
 fsspec
